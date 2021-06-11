@@ -97,7 +97,7 @@ async def _(event):
    if event.is_group:
      pass
    if event.is_private:
-     pass
+     pChatBotass
    await event.reply(f"""
 
 🌺✨✨🌺✨🌺🌺🌺
