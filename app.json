@@ -9,7 +9,7 @@
     "telegram-chatbot",
     "productivity"
   ],
-  "repository": "https://github.com/BotzCity/ChatBot",
+  "repository": "",
   "website": "https://github.com/BotzCity/ChatBot",
   "success_url": "https://github.com/BotzCity/ChatBot",
   "env": {
